@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+void main() {
     int *p = (int*) malloc(3 * sizeof(int));
 
     p[0] = 1;
@@ -18,5 +18,4 @@ int main() {
         printf("%d ", p[i]);
 
     free(p);
-    return 0;
 }
