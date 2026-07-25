@@ -18,4 +18,5 @@ struct student {
 
     printf("%d", s1.age);
     printf("%d", s2.age);
+    
 }

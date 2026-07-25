@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-    int n1 = 901 ;
+    int n1 = 90 ;
     int n2 = 12 ;
     int sum = n1 + n2;
     int sub = n1 - n2;

@@ -5,7 +5,7 @@ enum days
 };
 void main()
 {
-    enum days day;
-    day = Thursday;
-    printf("%d", day);
+    enum days d;
+    d = Thursday;
+    printf("%d", d);
 }

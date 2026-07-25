@@ -17,6 +17,4 @@ void add (int count, ...)
 void main()
 {
     add(6, 12, 34, 12, 56, 89, 90);
-
 }
-

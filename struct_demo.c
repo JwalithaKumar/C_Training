@@ -21,7 +21,6 @@ struct student s2;
 strcpy(s2.name, "Raj");
 s2.age = 20;
 s2.marks = 90.6;
-strcpy(s2.name, "Raj");
 
 struct student s3 = {"Popoye", 17, 99.9};
 
